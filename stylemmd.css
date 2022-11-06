@@ -1,0 +1,60 @@
+.table1 {
+    border: 1px solid black;
+    margin-right: 750px;
+    margin-left: 50px;
+}
+.table2{
+    margin-right: 400px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.table2 ,tr ,input{
+    height: 75px;
+}
+
+.table3{
+    margin-right: 400px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.table3 ,tr ,input{
+    height: 75px;
+}
+
+.table4{
+    margin-right: 400px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.table4 ,tr ,input{
+    height: 75px;
+}
+
+.table5{
+    margin-right: 400px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.table5 ,tr ,input{
+    height: 75px;
+}
+
+.table6{
+    margin-right: 400px;
+    height: 100px;
+    margin-left: 50px;
+}
+
+.table6 ,tr ,input{
+    height: 75px;
+}
+
+.next{
+    margin-left: 850px;
+  }
+
+
